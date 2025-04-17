@@ -45,7 +45,7 @@ weather-dashboard/
 ## Setup Instructions
 1. Clone the repository:
 --bash
-git clone https://github.com/ShaeInTheCloud/30days-weather-dashboard.git
+git clone https://github.com/Cloudcaptain9/30days-weather-dashboard.git
 
 3. Install dependencies:
 bashCopypip install -r requirements.txt
